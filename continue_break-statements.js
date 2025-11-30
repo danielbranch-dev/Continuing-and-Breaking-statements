@@ -1,4 +1,4 @@
-/* In order for us cause a function to continue or break when we are looping the function, we use "contniue" and "break" statements. */
+/* In order for us to cause a function to continue or break when we are looping the function, we use "continue" and "break" statements. */
 
 
 //Continue 
